@@ -1,0 +1,32 @@
+.movieList {
+    margin-bottom: 30px;
+}
+
+.movieList h2 {
+    margin: 0px 0px 0px 30px;
+}
+
+.movie-listarea {
+    overflow-x: hidden;
+    padding-left: 30px;
+}
+
+.movie-list {
+    width: 99999px;
+}
+
+.movie-item {
+    display: inline-block;
+    width: 150px;
+    cursor: pointer;
+}
+
+.movie-item img {
+    width: 100%;
+    transform: scale(0.9);
+    transition: 0.3s;
+}
+
+.movie-item img:hover {
+    transform: scale(1);
+}
