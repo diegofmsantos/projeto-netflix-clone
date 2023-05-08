@@ -1,7 +1,7 @@
 {
   "name": "projeto-netflix-clone",
   "version": "0.1.0",
-  "homepage": "https://diegofmsantos.github.io/projeto-netflix-clone",
+  "homepage": "https://diegofmsantos.github.io/projeto-netflix-clone/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
